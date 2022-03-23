@@ -1,0 +1,19 @@
+{
+  "name": "screenshot-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx badcert ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1eeing/screenshot-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1eeing/screenshot-demo/issues"
+  },
+  "homepage": "https://github.com/1eeing/screenshot-demo#readme"
+}
